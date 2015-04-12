@@ -1,7 +1,7 @@
 /* ========================================================================
 
 NODESCHOOL
-Javascripting::Array Filtering
+Javascripting::Accessing Array Values
 
 Instructions:
 Create a file named accessing-array-values.js.
